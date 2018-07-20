@@ -1,0 +1,23 @@
+{
+  "name": "alexa-weather",
+  "version": "1.0.0",
+  "description": "A weather skill for alexa that uses various real time data (APIs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainede/alexa-weather.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill"
+  ],
+  "author": "Rainey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainede/alexa-weather/issues"
+  },
+  "homepage": "https://github.com/rainede/alexa-weather#readme"
+}
